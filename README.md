@@ -5,6 +5,7 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah disp
 
 ## Desain
 ![awikwok](Desain)
+
 Terdiri dari 4 class, di mana class Shirt adalah inheritance dari class Clothing, class Clothing adalah inheritance dari class Product, dan class Tabel yang berdiri sendiri.
 
 Class Product terdiri dari atribut-atribut berikut:
