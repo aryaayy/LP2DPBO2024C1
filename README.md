@@ -7,3 +7,6 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah disp
 
 ### Java
 ![awikwok](java/Screenshots/java1.png)
+
+### C++
+![awikwok](cpp/Screenshots/cpp1.png)
